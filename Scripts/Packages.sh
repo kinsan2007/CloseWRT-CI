@@ -26,7 +26,6 @@ UPDATE_PACKAGE "argon" "jerrykuku/luci-theme-argon" "master"
 UPDATE_PACKAGE "argon-config" "jerrykuku/luci-app-argon-config" "master"
 
 UPDATE_PACKAGE "helloworld" "fw876/helloworld" "master"
-UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev"
 
 #更新软件包版本
 UPDATE_VERSION() {
@@ -50,5 +49,3 @@ UPDATE_VERSION() {
 		echo "$PKG_NAME is not found!"
 	fi
 }
-
-UPDATE_VERSION "sing-box" "SagerNet/sing-box"
