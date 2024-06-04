@@ -13,4 +13,3 @@ CONFIG_PACKAGE_luci-app-accesscontrol=n
 CONFIG_PACKAGE_luci-app-fileassistant=n
 CONFIG_PACKAGE_luci-app-upnp=n
 CONFIG_PACKAGE_luci-app-usb-printer=n
-CONFIG_PACKAGE_luci-app-eqos-mtk=n
