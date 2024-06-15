@@ -50,5 +50,3 @@ UPDATE_VERSION() {
 		echo "$PKG_NAME is not found!"
 	fi
 }
-
-UPDATE_VERSION "sing-box" "SagerNet/sing-box"
